@@ -1,5 +1,3 @@
-Here's a professional and organized README based on your instructions:
-
 # Create Linux System Distro on QEMU ARM
 
 🔧 This guide outlines the steps to create a minimalistic Linux system using QEMU, ARM architecture, the Linux kernel, and BusyBox. It includes instructions on compiling the kernel, creating a root filesystem (RootFS), and running the system on QEMU ARM Versatile PB board.
