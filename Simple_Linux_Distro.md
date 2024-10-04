@@ -190,4 +190,4 @@ qemu-system-arm -M vexpress-a9 -kernel ./linux-6.11.1/build/arch/arm/boot/zImage
 
 
 ## Video
-##
+[##](https://drive.google.com/file/d/18MadZP0T-1Fv_JE_2m6F_emJLxGolDS6/view?usp=drive_link)
