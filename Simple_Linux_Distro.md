@@ -16,7 +16,7 @@ Here's a professional and organized README based on your instructions:
   - 💻 [Running the System on QEMU](#running-the-system-on-qemu)
 - 📋 [Notes](#notes)
 - 🎥 [References](#references)
-- ✍️ [Author](#author)
+- ✍️ [Video](#Video)
 
 ## Overview
 
@@ -182,9 +182,14 @@ qemu-system-arm -M vexpress-a9 -kernel ./linux-6.11.1/build/arch/arm/boot/zImage
 
 ## Notes
 
-📋 The minimal Linux system boots with a custom kernel and BusyBox-based utilities. The `init` script in the RootFS handles the initial process setup, mounting filesystems, and starting an interactive shell.
+📋 The Simple Linux system boots with a custom kernel and BusyBox-based utilities. The `init` script in the RootFS handles the initial process setup, mounting filesystems, and starting an interactive shell.
+
+
 
 ## References
 
 🎥 Original tutorial and steps are based on this [guide](https://lukaszgemborowski.github.io/articles/minimalistic-linux-system-on-qemu-arm.html).
 
+
+## Video
+##
